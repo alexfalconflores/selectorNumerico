@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { SelectorNumericoComponent } from './selector-numerico/selector-numerico.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SelectorNumericoComponent
   ],
   imports: [
     BrowserModule,

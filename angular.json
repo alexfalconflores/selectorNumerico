@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "selectorNumerico"
+  "defaultProject": "selectorNumerico",
+  "cli": {
+    "analytics": "7a6d9d57-08a9-4ca1-b9a4-bcfdbacae6d8"
+  }
 }
