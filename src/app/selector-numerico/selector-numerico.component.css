@@ -1,0 +1,21 @@
+.selector
+{
+  display:inline-flex;
+  margin: 0.2rem;
+}
+
+.valor
+{
+  display:inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+  background: #ff0;
+  font-size: 2rem;
+}
+
+.button
+{
+  height: 3rem;
+}
